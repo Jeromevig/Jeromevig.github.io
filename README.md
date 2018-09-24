@@ -1,4 +1,4 @@
-# MyPrecious by maCastelain
+# MyPrecious by Jeromevig
 =============
 
 ## Description
